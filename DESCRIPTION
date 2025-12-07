@@ -1,0 +1,12 @@
+Package: LMsim
+Type: Package
+Title: Linear Model Simulation & Diagnostics
+Version: 0.1.0
+Author: Ruiyan Qiu
+Maintainer: Ruiyan Qiu <rq3rq@virginia.edu>
+Description: Functions to simulate linear models, perform collinearity calibration, compute prediction bands, run model diagnostics, and run multiple simulations for STAT 5430 project.
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Imports: MASS
+Suggests: glmnet, car, agricolae, NHANES
