@@ -1,6 +1,6 @@
 # ==============================================================================
 # Linear Model Simulation & Diagnostics (STAT 5430 Project)
-# Author: Ruiuan Qiu
+# Author: Ruiyan Qiu
 # Purpose: Evaluate statistical methods under collinearity, misspecification, and non-normality
 # ==============================================================================
 
