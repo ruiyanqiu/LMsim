@@ -1,5 +1,5 @@
 # STAT 5430 Project: LMsim (Linear Model Simulation)
-Author: Ruiuan Qiu  
+Author: Ruiyan Qiu  
 Working Directory: `/Users/qry/Desktop/UVA BSN/2025 Fall/STAT 5430 Stat Comp with Python and R/5430_project/LMsim/`
 
 ## Folder Structure
