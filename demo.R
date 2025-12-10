@@ -1,5 +1,5 @@
 # --------------------------
-# Demo Script for LMsim (STAT 5430 Project - Ruiuan Qiu)
+# Demo Script for LMsim (STAT 5430 Project - Ruiyan Qiu)
 # Fully Reproducible & Error-Free
 # --------------------------
 
